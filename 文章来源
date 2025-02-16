@@ -1,0 +1,47 @@
+高质量甲骨文文字演变数据集EVOBC
+VLRLab学习屋 2024年07月22日 21:57 湖北
+EVOBC
+
+  中国的甲骨文（Oracle Bone Script，简称OBS）已有3000多年的历史，是世界上现存最古老的书写形式之一。甲骨文，又称契文、龟甲文字、殷墟文字或甲骨卜辞，是商朝晚期王室在龟甲或兽骨上契刻的用于占卜记事的文字。这种文字是中国及东亚已知最早的成体系的成熟文字。商代文字承袭了原始刻符号，并在此基础上发展，成为汉字演变的重要阶段。现代汉字，特别是楷书，正是由商代文字逐步演变而来的。
+
+    然而，破译甲骨文仍然是一个艰巨的挑战。截至目前，现存的4500个甲骨文字中只有大约1600个得到了破译。因此，需要进一步的学术研究来全面理解这一古老的书写体系。人工智能技术为破译甲骨文提供了一种前景广阔的途径，特别是研究其演化过程。然而，其中一个挑战是缺乏系统的、用于映射这些字符长期演变的数据集。为此，团队本科生iPad成员管海粟，万金鹏等人提出了甲骨文文字演变的数据集EVOBC。
+
+相关链接
+
+论文链接：
+
+https://arxiv.org/abs/2401.12467
+
+数据集下载：
+
+https://github.com/RomanticGodVAN/character-Evolution-Dataset
+
+数据获取
+
+https://mmbiz.qlogo.cn/mmbiz_png/34mvgiceq4c12xwzg7rAwDibkTYH5dcAjme7bXHiaohMq82s7CdRD22GrBL84ALzKxp4a8PxVzp3d3qoXLwuI29qQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1&retryload=2
+图1 汉字“百”的进化途径
+https://mmbiz.qlogo.cn/mmbiz_png/34mvgiceq4c12xwzg7rAwDibkTYH5dcAjmut1Z8picE61Pn69pCKy5QNwJE7rlU86CaogFvaxGgvqiaQWMeFAA3yjA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1&retryload=2
+
+
+    在这项研究中，我们系统地收集了跨越六个历史阶段的权威文本和网站上的古代字符：甲骨文字符（OBC，公元前15世纪），青铜铭文（公元前13世纪至公元前8世纪），春秋时期的字符（公元前770年至公元前476年），战国时期的字符（公元前475年至公元前221年），以及文书脚本（CS，公元前221年至公元220年）。这些数据源自于：殷契文渊、国学大师、甲骨文字编、西周金文字编、春秋文字字形表、战国文字字形表。
+
+图片
+图2 来自不同数据源的样本
+
+https://mmbiz.qpic.cn/mmbiz_png/34mvgiceq4c12xwzg7rAwDibkTYH5dcAjmnDKOAF4uEDBMrY7g4VibP0ypNydRtN4xiacrZV7F7Io3icW8CGiaIicIYUg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
+
+图片
+图3 EVOBC的数据源
+https://mmbiz.qpic.cn/mmbiz_png/34mvgiceq4c12xwzg7rAwDibkTYH5dcAjmhKVNXA4e9cVYep2d17WRNcIQW4B3cC44EghgF8YaEicNpqJPXaBO9cw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
+
+
+图片
+图4 数据集类别和图像数量统计
+https://mmbiz.qpic.cn/mmbiz_png/34mvgiceq4c12xwzg7rAwDibkTYH5dcAjmIR7G5txCegTT6PPPjKsj60QyZUWqrL67dZF2Lia6lotllbDdPiaibgaIQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
+
+
+图片
+图5 EVOBC中不同汉字进化的样本展示
+
+
+
